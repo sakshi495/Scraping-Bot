@@ -1,0 +1,387 @@
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/2025-Stock-Cheapest-Portable-Ultrathin-16inch_1601408559677.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H9a3f728e952f4d779cee861d817d593bS.jpg
+https://sc04.alicdn.com/kf/H74d3723dc0384900be9d9eb3adce17a7Q.jpg
+https://sc04.alicdn.com/kf/H7928450526134d9fb0a2de818302418fc.jpg
+https://sc04.alicdn.com/kf/H9cb903fddbe24f51b97a0af355a3ccf7k.jpg
+https://sc04.alicdn.com/kf/He2fa91b2c80349789564c9071ef0a8ddq.jpg
+https://sc04.alicdn.com/kf/H9d602c7c6d634f24a7a282a092ee02b7b.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Micro-soft-Surface-Pro5-Tablet-95_1601135073111.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hd4b62808beb1446da3d73608e7b5b899p.png
+https://sc04.alicdn.com/kf/Hffa01bae741340b9bf7f787dacff671bb.png
+https://sc04.alicdn.com/kf/He743101c13a34643b7a9a6364dad8b5bf.png
+https://sc04.alicdn.com/kf/H809a3329ce254955bf20bba0677c7e94K.png
+https://sc04.alicdn.com/kf/Hca9a76d0154c43ae9b9ea4fdcfffee7aW.png
+https://sc04.alicdn.com/kf/H2c7ec157f0ba4df496a274e7bb42a68dK.png
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Best-Selling-15-6-Ultra-Thin_1601408896681.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H8fdb545dd0f546559254899a587a38afF.jpg
+https://sc04.alicdn.com/kf/Hacfe07a0c002489f9e54664191ff2640r.jpg
+https://sc04.alicdn.com/kf/Hf9d6a6d064c2403b8eec35954d9eef1fQ.jpg
+https://sc04.alicdn.com/kf/Hdbba35987c3949dea1664e002ffc6d29F.jpg
+https://sc04.alicdn.com/kf/Hceaa15d11c8f4e88a8509559d27db2e6E.jpg
+https://sc04.alicdn.com/kf/Hca25b19e88404c96b0d58ea806e76ea0k.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/New-15-6-Inch-Laptop-Computer_1601395386999.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Ha956a951f3b74e1091aa092b8d0c2733y.jpg
+https://sc04.alicdn.com/kf/H931fcffce70f47ef99a39c7fbb372881g.jpg
+https://sc04.alicdn.com/kf/Hf2c78c77f0814c738d124685b6e5c68eU.jpg
+https://sc04.alicdn.com/kf/Hf7fb1b10df944eeaa15f1ab7470896b5W.jpg
+https://sc04.alicdn.com/kf/H58b857bf5f8f4fe8acc47a8af1f449beW.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/2025-AIOPC-15-6-inch-Laptop_1601363102434.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H585de43376194474a25a53268a08c441p.jpg
+https://sc04.alicdn.com/kf/Hbeaedf485739418e932553a5e6306b1cA.jpg
+https://sc04.alicdn.com/kf/Hd9e1a1399b5f461c8d196c295f1d94f97.jpg
+https://sc04.alicdn.com/kf/Hb2e09f3f14fa4258b59035251257eb287.jpg
+https://sc04.alicdn.com/kf/Hb7ec746bf9a44632871890f17ff556b3S.jpg
+https://sc04.alicdn.com/kf/Heba7b354bdd94beaa4b20fa41bd0bc188.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/4G-sim-card-4G-Lte-brand_1601000549313.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H308ca0c8dda64d38b17aec550c0b5523r.jpg
+https://sc04.alicdn.com/kf/He19bf24ef3f84012a6fb642827e234f4w.jpg
+https://sc04.alicdn.com/kf/H8400304fd965446a9d4f01008fe01ff3L.jpg
+https://sc04.alicdn.com/kf/Hdb94182b21b544a492b77303d8771a32Q.jpg
+https://sc04.alicdn.com/kf/Hec2ea048bd4a47498df318a185c224e5g.jpg
+https://sc04.alicdn.com/kf/H676e2df9652e4c72ae4079288cc23c66Q.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/4G-Lte-Gaming-Laptop-15-6_1601000317976.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H01eeb1bb6aa24b22b39d5d4d792d0cae0.jpg
+https://sc04.alicdn.com/kf/H184e1e0a63954302be50fca51b9670efH.jpg
+https://sc04.alicdn.com/kf/H3ae2a36c586942b695165e8a7443b9d0U.jpg
+https://sc04.alicdn.com/kf/H46bffb3a7e164e1fb445515d48d809cd4.jpg
+https://sc04.alicdn.com/kf/H35ad46108f9e4900b3e7c60b07b6755fB.jpg
+https://sc04.alicdn.com/kf/Hbd5392f774b34503ab4224527b852804j.png
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Factory-Direct-Laptop-128-256-512GB_1601292729134.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hc04c22569213451e9374961a9c7f7140o.jpg
+https://sc04.alicdn.com/kf/Hb8f6d10d42af42978460eee081661bd3u.jpg
+https://sc04.alicdn.com/kf/H4d39579454684f059c13c45b4a6ef77dk.jpg
+https://sc04.alicdn.com/kf/H0922c8dddd454e19b13cd7ba19ccac8be.jpg
+https://sc04.alicdn.com/kf/H95cd9aef2cf24218973be1a60f69f87dJ.jpg
+https://sc04.alicdn.com/kf/H8b1a3cd9094f4aff92c7af93239f2bbao.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/1-95-New-9470-Core-i5_1600890605536.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/A1041503d500f4c45b6c163d29336b120V.png
+https://sc04.alicdn.com/kf/Ab707ceb5fc824481a402ecd13451f13aM.png
+https://sc04.alicdn.com/kf/A1d1e789a50734696b1028125e7e4c1eeN.png
+https://sc04.alicdn.com/kf/Ae635e88591544379812b839f2ab2cb36H.png
+https://sc04.alicdn.com/kf/A26ec71131db04277b2b9c949ca3b3f82h.png
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Laptop-15-6-N95-N100-1920_1601225090934.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H09b443ade83f433f9bb8d6b9b8cae5ffz.jpg
+https://sc04.alicdn.com/kf/H75cb65644f824373aeb10f0ee2ac8611J.jpg
+https://sc04.alicdn.com/kf/H4a6186a9759548bc8c72bfd1db7c6e16w.jpg
+https://sc04.alicdn.com/kf/H977abfe228624e709392d89b2aa54e250.jpg
+https://sc04.alicdn.com/kf/H82457b426c994e0da3fe43ca70599566e.jpg
+https://sc04.alicdn.com/kf/Hb6116eafe21543eb9a328ea89e0e7830g.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/hot-selling-best-price-N3450-Z8350_1600460582420.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H9427a7f8b6ef42bebf1fa104136ada69W.jpg
+https://sc04.alicdn.com/kf/H81777bfbd7f6454c8e0abde0fd42a3f3n.jpg
+https://sc04.alicdn.com/kf/H8fae1d9206ae402c93767a0c24d0984ea.jpg
+https://sc04.alicdn.com/kf/H57a8314f9d1340d09b476c65a6b21b14t.jpg
+https://sc04.alicdn.com/kf/H4c05907dfaa8454290118580228c3807A.jpg
+https://sc04.alicdn.com/kf/H46036dac6c244a0f98fcd0e5f2a86f33P.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/brand-new-laptops-14-inch-1920x1080_1601280311389.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H2f1edb0c7666455481570d6e6f8b42c76.jpg
+https://sc04.alicdn.com/kf/Ha3d6150b035442ddb0db1f06b6bcbcd7T.jpg
+https://sc04.alicdn.com/kf/Hd604eb18bbe5488c82c809e605b9d473q.jpg
+https://sc04.alicdn.com/kf/Hc8deafbd719b4d4d8e6ade557948bd02z.jpg
+https://sc04.alicdn.com/kf/H177c33a39dda435ab2cd1caa84a0b48bF.jpg
+https://sc04.alicdn.com/kf/H0d6754789e98407e854ad9df4aba4e356.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/New-15-6-Inch-7-Inch_1600830048876.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H3a6d4a24e09c450880213d165447feddX.jpg
+https://sc04.alicdn.com/kf/He4094aab270f466c875e224e122e278cq.jpg
+https://sc04.alicdn.com/kf/Hff4a7e6f3f304e7283cf85720dca3f28G.jpg
+https://sc04.alicdn.com/kf/H6d73024792ed4248bc2a22236421f6fbt.jpg
+https://sc04.alicdn.com/kf/H38a3bf1dacb34c51b966a29507d86f6dS.png
+https://sc04.alicdn.com/kf/Hd3f3fde0cdf240f1bb3ba45f27896eafT.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/2024-Laptops-Tablet-New-Promotional-Notebook_1601241520671.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H2c2c33835ada48068b5fefd49b0120c1P.jpg
+https://sc04.alicdn.com/kf/H706c4aaff69c46e794b11f75ecee2d56R.jpg
+https://sc04.alicdn.com/kf/H65cacd5d7c164f208cc1f8cb69300dae9.jpg
+https://sc04.alicdn.com/kf/H25dcdf847ef64251a6dbfc6fc2f7b0e7u.jpg
+https://sc04.alicdn.com/kf/H62fc97bf53204094bca2669c9d3a61ebi.jpg
+https://sc04.alicdn.com/kf/Hea0573b17c6c4544844a08b1e25af174x.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/High-Quality-Ultra-Slim-16-Inch_1601295876337.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H802e64ae7d1048fc9b182fd2e490f867r.jpg
+https://sc04.alicdn.com/kf/Hf7389e7f6611401a8c1caf30b9046c4ad.jpg
+https://sc04.alicdn.com/kf/H94da4a3ce7b84500bcc63b2c12721addl.jpg
+https://sc04.alicdn.com/kf/Hba3804fd01464e2dae7f78632cdfea68M.jpg
+https://sc04.alicdn.com/kf/He6c6cc85bc1c4829852438459abf3f70s.jpg
+https://sc04.alicdn.com/kf/Hac8b3a736be7447592916eee566014a2t.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/The-Latest-Dual-Screen-Ultra-Slim_1601292368304.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hc9c0dde7dc524d949c1408b8df1902bdN.jpg
+https://sc04.alicdn.com/kf/H3d6db2c267544dffb671840e5274d24cw.jpg
+https://sc04.alicdn.com/kf/H17d9ef4e15724d87b6b496f7cd29b7f0o.jpg
+https://sc04.alicdn.com/kf/Hde6bb710ad6c4209a92a41b5556b6265j.jpg
+https://sc04.alicdn.com/kf/Hbbac2b8f0de94d0fb4417ff4d7091475t.png
+https://sc04.alicdn.com/kf/H226b47a71cd84f16a478cf5326b3bc84v.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Factory-wholesale-Newest-7-inch-children_1601208240293.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H28253d851813472299666831d8ed7759A.jpg
+https://sc04.alicdn.com/kf/H626cc6cf8c6245358165352d9640efd13.jpg
+https://sc04.alicdn.com/kf/Hedaf9394c51b4d61ad88a261d5663839q.jpg
+https://sc04.alicdn.com/kf/Hd602bce2333e4d2aa11051d0ffaac3bbo.jpg
+https://sc04.alicdn.com/kf/H16e2b8dc60c24f17b5f9455f05594c3aw.jpg
+https://sc04.alicdn.com/kf/H70bc886364664aa7bb010df4625855ban.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/10-1-Inch-2-In-1_1600626418345.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H98a0ad7ed3e84987a19db959aa299e48W.png
+https://sc04.alicdn.com/kf/H168dca5b29a8466d81e930dc39ffd90fj.jpg
+https://sc04.alicdn.com/kf/H4b6c6da912364a49bf5bc23eb27dd874S.png
+https://sc04.alicdn.com/kf/H7eabc3560d7c4346a2a31d7cce21f8fe8.png
+https://sc04.alicdn.com/kf/Ha6103fd2ca234733b2c0b4d868aa1e70L.png
+https://sc04.alicdn.com/kf/H5fdbdbdce5e84b2990b4ff44e0469a37C.png
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/The-New-amd-3500u-Office-Game_1601365685370.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hfd9f790e48a24f20aaf3ddc61ffc0698C.png
+https://sc04.alicdn.com/kf/Hd154893c9dec4f12abf965883393dde1y.png
+https://sc04.alicdn.com/kf/H0fff67f2f8d54113b001e700f619c9ddf.jpg
+https://sc04.alicdn.com/kf/Haa6c7a6542b142c8aea78b690e1f4784h.jpg
+https://sc04.alicdn.com/kf/He1284851162c46bdbb85aa0244214f25n.jpg
+https://sc04.alicdn.com/kf/Hcdcf3a6cfe314148aa5171d965461c345.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/New-Arrivals-15-6-FHD-Laptop_1601205730138.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hde13a7fe05664614a0e75872e5cfd01ef.jpg
+https://sc04.alicdn.com/kf/H46e52887419f4f4a8d9ee6320323e8a9k.png
+https://sc04.alicdn.com/kf/He3035570524841c988b98fd4de16ec19e.jpg
+https://sc04.alicdn.com/kf/Haf3dcb2594784f8aa14ba9b2e56e2d1bv.png
+https://sc04.alicdn.com/kf/He2bd80e0950e4c95b0bc9c4fd34b90bc9.jpg
+https://sc04.alicdn.com/kf/H6cceb5b54afd4a1a958a82d3324dda71d.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/2-in-1-11-6-Inch_1601294152788.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H24f032c468424861bfeb90f55c386a41Z.png
+https://sc04.alicdn.com/kf/H87212e367893452680202a56df663d67T.png
+https://sc04.alicdn.com/kf/H6eb9ab0a3283434ead7e32b5b7023758I.png
+https://sc04.alicdn.com/kf/Hea4a1f6757ad49819851a7d185d70eb5q.jpg
+https://sc04.alicdn.com/kf/Hbb8716580ddd43868fb70e84d2741edc9.jpg
+https://sc04.alicdn.com/kf/H57d20c536399413789f0d5a6291accbdt.png
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/New-OEM-Pad-6S-10-1_1601358800016.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hdfd17454a51d4b058a5624db4b8b57929.jpg
+https://sc04.alicdn.com/kf/Hde2434e813a24baeb2d85727ffd7219bP.jpg
+https://sc04.alicdn.com/kf/Hd00aba2afcdc43e1beaa2889e65c9b367.jpg
+https://sc04.alicdn.com/kf/H153eabdd11214cbf833324ce82eb17fba.jpg
+https://sc04.alicdn.com/kf/H6b83f2b12329491f9d36bbc2c2b41efd0.jpg
+https://sc04.alicdn.com/kf/H3d90aa3e38ad4a0b8e859e86302a32edZ.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Student-Touch-Screen-Laptops-With-Backlit_1600874041565.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hf7de4b92974d4e2d92ebaf1873388d1dJ.jpg
+https://sc04.alicdn.com/kf/H94f3e491109b4da9a53c4335c37f5678D.jpg
+https://sc04.alicdn.com/kf/Hcbba20a701b64375a58bc4292d045011F.jpg
+https://sc04.alicdn.com/kf/H538d47f43aff496cad03ffcfc750168dP.jpg
+https://sc04.alicdn.com/kf/Hbe9ef83e74e046158345353dbc7bfa58u.jpg
+https://sc04.alicdn.com/kf/H823a87f0faa94f6fbac2cc96c4de8dfe3.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Core-i9-10th-brand-new-dual_1601290225643.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H6c28cff1320f4d5d91728962286a98a7g.png
+https://sc04.alicdn.com/kf/H6190834395294bc1893bc384845a6e2dm.jpg
+https://sc04.alicdn.com/kf/H8d0147839b784580b29896f004f56ba6s.jpg
+https://sc04.alicdn.com/kf/Hc0c1101683c94e6096bb3baafb2e23931.jpg
+https://sc04.alicdn.com/kf/H1c44fbc676dd4ea1b68cad3fa1954f6dJ.jpg
+https://sc04.alicdn.com/kf/Hc21dcd8693d8483f9f94e657ed4ea261p.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/industrial-laptop-8050-mAh-IP65-ruggedized_1600678234132.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hcd4ef0a0799440c296ba9a38d8d888686.jpg
+https://sc04.alicdn.com/kf/H9f08eba5a4344b979393c94ba6d7f537L.jpg
+https://sc04.alicdn.com/kf/H5f3e71a374244bc78fd7af0e4f145d1fT.png
+https://sc04.alicdn.com/kf/H11f2b03a693b4352b52469b36d1a47527.jpg
+https://sc04.alicdn.com/kf/H2673546272d0467a9dfad507d2b8c37aC.jpg
+https://sc04.alicdn.com/kf/Hbed488d1254e41c8b4a13194b298bc74u.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Good-Quality-MSI-Star-Shadow-15_1601377828449.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H7eb02fbd61f641f5aa9800aae2e2025fv.png
+https://sc04.alicdn.com/kf/Hc3979d083d0244828c6968039e746105E.png
+https://sc04.alicdn.com/kf/He1a76b747bfc477b901b054fb22c8587z.png
+https://sc04.alicdn.com/kf/H61b645486e16451cbd462c83a22729748.png
+https://sc04.alicdn.com/kf/Hac82be0334d649508c1fc6de3fa0d488Q.png
+https://sc04.alicdn.com/kf/Hd02396426cea4485b9206d85544928b4y.png
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Dual-Screen-Laptop-16-Inch-16_1601197804321.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hbdeb7450a2b04b64b4948c679369ea5aj.jpg
+https://sc04.alicdn.com/kf/He1c02ebac8484ece9a4db5f81659b010q.jpg
+https://sc04.alicdn.com/kf/Hbc2c734bcb0d459f8bf014963a73394eh.jpg
+https://sc04.alicdn.com/kf/Hf67e102f970d49ce89fde4f1a6556638Z.jpg
+https://sc04.alicdn.com/kf/Hd5924019220d4714936276c9ceeda5a8Q.jpg
+https://sc04.alicdn.com/kf/H1189e52257144bfa8507ccb2675e7f8c6.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/High-Quality-10-Core-Tablet-Pc_1601404485166.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H9f484ec9a6494bd7829e904149776aa6u.jpg
+https://sc04.alicdn.com/kf/H09c2deae81c64575b47cb020019420a1H.jpg
+https://sc04.alicdn.com/kf/Ha3bef586809a4a7f8e68f582af1ae007e.jpg
+https://sc04.alicdn.com/kf/H893b100ce9cb4b858e13cade044dd3582.jpg
+https://sc04.alicdn.com/kf/H314d3661613d4fad9ffd7fde67149f15a.jpg
+https://sc04.alicdn.com/kf/H601d3eb45f454f67b5ecc286db8a40c8T.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/14-1inch-Best-Business-Laptops-cheap_1600739844649.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H784378363b174c74a0bdedb667b55989j.jpg
+https://sc04.alicdn.com/kf/H21b421a466f247208a1bdecfb0c0dde5b.jpg
+https://sc04.alicdn.com/kf/Hfc670de26f63437c98fe8bb3b101841fb.jpg
+https://sc04.alicdn.com/kf/H029d76b03d634e1386baa42a12c77d73w.jpg
+https://sc04.alicdn.com/kf/Hf5b04fd864cd40e89f4a52696d0c1895V.jpg
+https://sc04.alicdn.com/kf/H346cb5feb95a4051ab3aec0cec86cf39f.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Brand-New-Factory-Bulk-Wholesale-14inch_1601044337258.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H509fb2abfc26434f9dcb4760b88a52bet.jpg
+https://sc04.alicdn.com/kf/H94542918728445f599b4e677d2bfa25bA.jpg
+https://sc04.alicdn.com/kf/Hef295230dea44434be9141f9e32ce78aj.jpg
+https://sc04.alicdn.com/kf/H7f0dee8354a0439180ccbe99349f0d8bl.jpg
+https://sc04.alicdn.com/kf/H2cd6b888e6104b56969ced91dc7b83b8n.jpg
+https://sc04.alicdn.com/kf/H1186290e317f411498420156457a6522f.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/i7-Gaming-Laptop-16-14-FHD_1601155350032.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hfd412024851b4913a6cf8d9ff748b8cbd.png
+https://sc04.alicdn.com/kf/Hd9e30003f3a34a93ad46b6f0733c0fa7O.jpg
+https://sc04.alicdn.com/kf/Headbba81b14348f1927c9bca175c733dq.png
+https://sc04.alicdn.com/kf/H31f6ae22d10a4d45b87bb32f22b825bdq.jpg
+https://sc04.alicdn.com/kf/H355a8a7c2c3142c7aa8b2dd54d44f28fZ.png
+https://sc04.alicdn.com/kf/H19ad5f91bb8142029ab2ee5c9bc2089b0.png
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/2024-Newest-Factory-price-ITZR-OEM_1601028177013.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hff0fc4abf8864c75a472e949ab93dd3f6.jpg
+https://sc04.alicdn.com/kf/Hd7df82f90604484bb652dceeddf51ca9B.jpg
+https://sc04.alicdn.com/kf/Ha824cda0b68444c38f826633878b700eR.jpg
+https://sc04.alicdn.com/kf/Hb62a570a4faa498b81ef75779ced55328.jpg
+https://sc04.alicdn.com/kf/Hdb7ac3bf6a5f41849610ecfea7f0b346x.png
+https://sc04.alicdn.com/kf/H6dce9c5349dd476b8c17bc17786971265.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Best-Selling-Dual-Screen-Touch-Laptop_1601051168604.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/Hab8e2d4f9e9e4978abbf364e75df10fbo.jpg
+https://sc04.alicdn.com/kf/Heb9b61536a89475f8f1f5583ac9c6d256.jpg
+https://sc04.alicdn.com/kf/H9b58bcca8dac4720a57c3c375a3ce5dae.jpg
+https://sc04.alicdn.com/kf/H7a4fcaae3d4940b995cb88c14402c3c41.jpg
+https://sc04.alicdn.com/kf/H6ce88e26092a41bc9f46cc19b627d529r.jpg
+https://sc04.alicdn.com/kf/Hdad559fd58974d0cb8ce5d57cec64da9s.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/Wholesale-10-1-Inch-PC-Student_1601299241903.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H47ea59017d824acbaabc7f86ff4ca9ede.jpg
+https://sc04.alicdn.com/kf/H480b9641e1064c758b9d962672bbe593l.jpg
+https://sc04.alicdn.com/kf/Hb351119f8c304de7b022df1629b10ad34.jpg
+https://sc04.alicdn.com/kf/H260783f9eb2746e3832f1eee96ee289cZ.jpg
+https://sc04.alicdn.com/kf/H10fd4e4add0d424da123fa4f0e952b5fg.jpg
+https://sc04.alicdn.com/kf/Hd35ed26b7c2344bbaffc4ebfae69b39f0.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/hp-x360-1030G3-laptop-i7-8th_1601385077740.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H42ce5a0fb5ac4b529d31f6fcb9458e8cm.jpg
+https://sc04.alicdn.com/kf/Hcd5a0e30fa7c448fb5dda14febf9d0bew.jpg
+https://sc04.alicdn.com/kf/H9e1eab8206e448b9a9519e9f0443cd7cu.jpg
+https://sc04.alicdn.com/kf/Hd1c3c3b9d2ec4b579bc97a14e5429fcbm.jpg
+https://sc04.alicdn.com/kf/Hb15a74f745434668a718096cc2615ab8h.jpg
+https://sc04.alicdn.com/kf/H6223c5ff541e496c9363f49e5fe03913e.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/11-6-Inch-Mini-Laptop-Inter_1600677542432.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H3c2d3da5cb3741069b530c818d6087c8o.jpg
+https://sc04.alicdn.com/kf/Hc36f417fb04745998728437d87e65b176.jpg
+https://sc04.alicdn.com/kf/H1f1fc2eecb5d43878980d9a94e5e171ej.jpg
+https://sc04.alicdn.com/kf/H770f388dc3f34290b47ebfe08dfefb17Q.jpg
+https://sc04.alicdn.com/kf/H4dc52c414b054352bed055d5e043b37b4.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/New-Laptop-10-1-inch-Tablet_1601072338865.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H804b6972713542e0bfcca92592d7029dO.png
+https://sc04.alicdn.com/kf/Hc1b1d42b11a745f8b370a5ffd90d8db7o.png
+https://sc04.alicdn.com/kf/Hfbbdd069c2934215b90c83b8cdb9a5a9L.png
+https://sc04.alicdn.com/kf/Hbeae9082f39b42c09d410373b6379aadF.png
+https://sc04.alicdn.com/kf/Hb326d1db24224cd1abddb9e4bc123971d.png
+https://sc04.alicdn.com/kf/H6563d52280824b7181d1bd9735e623f9y.png
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/PiPO-W14S-2-in-1-Studio_1601351613398.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H16f41a85710b4e9db50bc889d3547830Q.jpg
+https://sc04.alicdn.com/kf/H3022eea303f146afa9f4b815c4407207d.jpg
+https://sc04.alicdn.com/kf/H14dac4611b1a43d180763f00c94a82f3I.jpg
+https://sc04.alicdn.com/kf/H415985e6a4c9420d8cc2e35c39fda12ek.jpg
+https://sc04.alicdn.com/kf/He90eff492fe3466b99ec9fb71b997fbcF.jpg
+https://sc04.alicdn.com/kf/Ha7454c853a3d4250adb6ae53e2813668n.jpg
+---------------------------------------------------
+Extracted Product URLs:
+https://www.alibaba.com/product-detail/10-Inch-Laptop-16-Pro-Snapdragon870_1601345351149.html
+Extracted Image URLs:
+https://sc04.alicdn.com/kf/H14115e3a72a3444faf8910b6ad16b0a85.jpg
+https://sc04.alicdn.com/kf/H036ca6e6ce6a4802a3f4fd6aba75e31dc.jpg
+https://sc04.alicdn.com/kf/H0f88e4b4abf340e498964997d09fe988c.jpg
+https://sc04.alicdn.com/kf/H4d8ada928e934c86b556ec72fea2376fJ.jpg
+https://sc04.alicdn.com/kf/Hd02820c735e24c17b68d02cb78512d61B.jpg
+https://sc04.alicdn.com/kf/H94d32eb23c574459846659e19515570d1.jpg
+---------------------------------------------------
