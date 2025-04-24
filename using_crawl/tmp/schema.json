@@ -1,0 +1,33 @@
+{
+  "name": "Traffic Card Gallery",
+  "baseSelector": ".traffic-card-gallery",
+  "fields": [
+    {
+      "name": "image",
+      "selector": "img[src*='alicdn.com']",
+      "type": "attribute",
+      "attribute": "src"
+    },
+    {
+      "name": "url",
+      "selector": "a.product-image",
+      "type": "attribute",
+      "attribute": "href"
+    },
+    {
+      "name": "title",
+      "selector": ".product-title h2",
+      "type": "text"
+    },
+    {
+      "name": "price",
+      "selector": "[data-component='ProductPrice']",
+      "type": "text"
+    },
+    {
+      "name": "Quantity ",
+      "selector": "[data-component='ProductMoq']",
+      "type": "text"
+    }
+  ]
+}
